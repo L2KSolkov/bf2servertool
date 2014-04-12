@@ -84,6 +84,7 @@ require_once('core/init.php');
 							<h3 class="center">Developers</h3>
 							<ul class="fa-ul">
 								<li><i class="fa-li fa fa-user"></i>Danny Li &lt;SharpBunny&gt;<br />bunny@battlefieldtools.com</li>
+								<li><i class="fa-li fa fa-user"></i>Jdar2 &lt;Jordan Dare&gt;<br />jordan@battlefieldtools.com</li>
 								
 								<li><i class="fa-li fa fa-group"></i>BattlefieldTools.com Staff</li>
 							</ul>
@@ -130,7 +131,7 @@ require_once('core/init.php');
 			<footer class="row">
 				<div class="col-md-12">
 					<hr />		
-					<p class="text-muted"><a href="http://battlefieldtools.com" target="_blank"><i class="fa fa-wrench"></i> BattlefieldTools.com</a> <!--&middot; <a href="http://battlefield.play4free.com/en/forum/showthread.php?tid=137006" target="_blank"><i class="fa fa-file-text"></i> Tool thread</a>--> &middot; <a href="https://github.com/dyhli/bfp4f-servertool/" target="_blank"><i class="fa fa-github"></i> View on GitHub</a> <span class="pull-right">BattlefieldTools Servertool is licensed under GPL v3.0.<br />Copyright &copy; <?=date('Y')?> by Danny Li <SharpBunny></span></p>
+					<p class="text-muted"><a href="http://battlefieldtools.com" target="_blank"><i class="fa fa-wrench"></i> BattlefieldTools.com</a> <!--&middot; <a href="http://battlefield.play4free.com/en/forum/showthread.php?tid=137006" target="_blank"><i class="fa fa-file-text"></i> Tool thread</a>--> &middot; <a href="https://github.com/Jdar2/bf2servertool" target="_blank"><i class="fa fa-github"></i> View on GitHub</a> <span class="pull-right">BattlefieldTools Servertool is licensed under GPL v3.0.<br />Copyright &copy; <?=date('Y')?> by Danny Li <SharpBunny></span></p>
 				</div>
 			</footer>
 			

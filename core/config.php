@@ -64,5 +64,5 @@ $config = array(
 // DON'T CHANGE
 // DON'T CHANGE
 
-define('TOOL_VERSION', 'v0.0.1 Alpha');
+define('TOOL_VERSION', '0.0.5');
 ?>

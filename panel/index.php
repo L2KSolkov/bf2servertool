@@ -1,6 +1,6 @@
 <?php
 /**
- * BattlefieldTools.com BFP4F ServerTool
+ * BattlefieldTools.com BF2 Servertool
  * Version 0.6.0
  *
  * Copyright (C) 2013 <Danny Li> a.k.a. SharpBunny

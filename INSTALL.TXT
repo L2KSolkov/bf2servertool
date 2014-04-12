@@ -1,5 +1,5 @@
 /**
- * BattlefieldTools.com BFP4F ServerTool
+ * BattlefieldTools.com BF2 Servertool
  * Version 0.6.0
  *
  * Copyright (C) 2013 <Danny Li> a.k.a. SharpBunny
@@ -19,4 +19,4 @@
  */
 
 READ THIS:
-https://github.com/dyhli/bfp4f-servertool/wiki/Installation
+https://github.com/Jdar2/bf2servertool/wiki/Installation

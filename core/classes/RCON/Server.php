@@ -43,38 +43,12 @@ class Server
             'timeElapsed' => $spl[18],
             'timeRemaining' => $spl[19],
             'gameMode' => $spl[20], // ADDED BY SHARPBUNNY
-            'roundsCount' => $spl[31], // ADDED BY SHARPBUNNY
             'rounds' => $spl[30] // ADDED BY SHARPBUNNY
         );
         
         return (object) $result;
     }
 	
-	/**
-	 * Fetches VIP people
-	 * @return object
-	 * 
-	 * ADDED BY SHARPBUNNY
-	 */
-	public function fetchVips() {
-		$data = Base::query('exec game.getVipList');
-		
-		$spl = explode("\r", $data);
-		
-		$result = array();
-		
-		foreach($spl as $vip) {
-			
-			$spl2 = explode("\t", $vip);
-			
-			$result[] = array(
-				'playerName' => $spl2[0],
-				'profileId' => $spl2[1]
-			);
-		}
-		
-		return $result;
-	}
 	
 	/**
 	 * Set VIP status

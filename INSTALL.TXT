@@ -1,8 +1,8 @@
 /**
- * BattlefieldTools.com BF2 Servertool
+ * BF2 Servertool
  * Version 0.6.0
  *
- * Copyright (C) 2013 <Danny Li> a.k.a. SharpBunny
+ * Copyright (C) 2014 Jdar2 a.k.a Jordan Dare
  * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

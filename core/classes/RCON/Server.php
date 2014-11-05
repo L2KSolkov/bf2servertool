@@ -50,20 +50,6 @@ class Server
     }
 	
 	
-	/**
-	 * Set VIP status
-	 * 
-	 * @param $name Playername
-	 * @param $profileId Profile ID
-	 * @param $vip 0=deactivate VIP status, 1=activate VIP status
-	 * 
-	 * @return
-	 * 
-	 * ADDED BY SHARPBUNNY
-	 */
-	public function setVip($name, $profileId, $vip=1) {
-		return Base::query("exec game.setPersonaVipStatus {$name} {$profileId} {$vip}");
-	}
 	
 	/**
 	 * Fetches IGA admins
@@ -138,7 +124,7 @@ class Server
      *   <ul>
      *    <li>gpm_sa</li>
      *    <li>gpm_rush</li>
-     *    <li>There are also so unreleased/lefotovers in BFP4F mm/game files.
+     *    <li>There are also so unreleased/lef in BFP4F mm/game files.
      *   </ul>
      *  </li>
      * </ul>

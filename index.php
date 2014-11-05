@@ -84,7 +84,7 @@ require_once('core/init.php');
 							<h3 class="center">Developers</h3>
 							<ul class="fa-ul">
 								<li><i class="fa-li fa fa-user"></i>Danny Li &lt;SharpBunny&gt;<br />bunny@battlefieldtools.com</li>
-								<li><i class="fa-li fa fa-user"></i>Jdar2 &lt;Jordan Dare&gt;<br />jordan@battlefieldtools.com</li>
+								<li><i class="fa-li fa fa-user"></i>Jdar2 &lt;Jordan Dare&gt;<br />jordandare@hotmail.com</li>
 								
 								<li><i class="fa-li fa fa-group"></i>BattlefieldTools.com Staff</li>
 							</ul>
@@ -92,19 +92,13 @@ require_once('core/init.php');
 						<div class="col-md-4">
 							<h3 class="center">Translators</h3>
 							<ul class="fa-ul">
-								<li><i class="fa-li fa fa-user"></i>SharpBunny - English <!--& Nederlands--></li>
-								<!--<li><i class="fa-li fa fa-user"></i>NommoPL - Polski</li>
-								<li><i class="fa-li fa fa-user"></i>-SM-MED-NB93 - Français</li>
-								<li><i class="fa-li fa fa-user"></i>Johncze - čeština</li>
-								<li><i class="fa-li fa fa-user"></i>BeckerDerBro - Deutsch</li>-->
+								<li><i class="fa-li fa fa-user"></i>SharpBunny</li>
 							</ul>
 						</div>
 						<div class="col-md-4">
 							<h3 class="center">Suggestions</h3>
 							<ul class="fa-ul">
-								<!--<li><i class="fa-li fa fa-user"></i>kosamiitti - Attachment limiter</li>-->
 								<li><i class="fa-li fa fa-user"></i>roennel - Server config</li>
-								<!--<li><i class="fa-li fa fa-user"></i>-SM-MED-NB93 - Dual-slot limiter</li>-->
 							</ul>
 						</div>
 					</div>
@@ -113,11 +107,7 @@ require_once('core/init.php');
 					
 					<h3 class="text-muted">Thanks to...</h3>
 					<ul class="fa-ul">
-						<!--<li><i class="fa-li fa fa-group"></i>BFP4F community, <i>for everything you guys have done</i></li>-->
-						<li><i class="fa-li fa fa-group"></i>BTC, <i>for the awesome support and fun I had and still have</i></li>
-						<li><i class="fa-li fa fa-user"></i>piqus.pl, <i>for the support and RCON class!</i></li>
-						<br />
-						<li><i class="fa-li fa fa-gift red"></i>All the people who have donated</li>
+						<li><i class="fa-li fa fa-user"></i>Danny(aka SharpBunny)<i> For the support for helping me make this tool! Thanks for the good times Danny!</i></li>
 						<br />
 						<li><i class="fa-li fa fa-coffee brown"></i>A lot of coffee... <small><i>and food... I LOVE FOOD! NOM NOM NOM!</i></small></li>
 					</ul>
@@ -131,7 +121,7 @@ require_once('core/init.php');
 			<footer class="row">
 				<div class="col-md-12">
 					<hr />		
-					<p class="text-muted"><a href="http://battlefieldtools.com" target="_blank"><i class="fa fa-wrench"></i> BattlefieldTools.com</a> <!--&middot; <a href="http://battlefield.play4free.com/en/forum/showthread.php?tid=137006" target="_blank"><i class="fa fa-file-text"></i> Tool thread</a>--> &middot; <a href="https://github.com/Jdar2/bf2servertool" target="_blank"><i class="fa fa-github"></i> View on GitHub</a> <span class="pull-right">BattlefieldTools Servertool is licensed under GPL v3.0.<br />Copyright &copy; <?=date('Y')?> by Danny Li <SharpBunny></span></p>
+					<p class="text-muted"><a href="http://68.189.67.5" target="_blank"><i class="fa fa-wrench"></i> Jordan's Website</a> &middot; &middot; <a href="https://github.com/Jdar2/bf2servertool" target="_blank"><i class="fa fa-github"></i> View on GitHub</a> <span class="pull-right">BattlefieldTools Servertool is licensed under GPL v3.0.<br />Copyright &copy; <?=date('Y')?> by Danny Li <SharpBunny></span></p>
 				</div>
 			</footer>
 			

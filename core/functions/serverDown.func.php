@@ -1,9 +1,9 @@
 <?php
 /**
- * BattlefieldTools.com BFP4F ServerTool
- * Version 0.6.0
+ * BF2 Servertool
+ * Version 0.1
  *
- * Copyright (C) 2013 <Danny Li> a.k.a. SharpBunny
+ * Copyright (C) 2014 Jordan Dare
  * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -43,7 +43,7 @@ function serverDown() {
 		$message = 'Hello!' . PHP_EOL .
 		'The servertool could not connect to your BFP4F server, please check your server and your RCON information.' . PHP_EOL .
 		'Click on this link to access the ControlPanel: ' . HOME_URL . PHP_EOL . PHP_EOL .
-		'~ Bunny\'s ServerTool Notifier';
+		'BF2 Servertool Notifier';
 		
 		// Send e-mail
 		Email($settings['notify_email'], $settings['notify_email'], 'Server is down!', $message);

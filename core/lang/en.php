@@ -31,16 +31,16 @@ $lang = array(
 	'github' => 'View on GitHub',
 	
 	// Some words
-	'word_tool' => 'BattlefieldTools Servertool',
+	'word_tool' => 'BF2 Servertool',
 	'word.tool' => 'Tool',
-	'word_cp_full' => 'ControlPanel',
+	'word_cp_full' => 'Control Panel',
 	'cp_notava' => 'Not implimented!',
 	'word_cp' => 'CP',
 	'word_vip' => 'VIP',
 	'word_welcome' => 'Welcome',
 	'word_language' => 'Language',
 	'word_about' => 'About',
-	'word_error' => 'Oh oh!', # Error
+	'word_error' => 'Uh Oh!', # Error
 	'word_yes' => 'Yes',
 	'word_no' => 'No',
 	'word_ok' => 'OK',

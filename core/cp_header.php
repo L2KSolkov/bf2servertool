@@ -22,10 +22,10 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title><?=$pageTitle?> | BattlefieldTools.com Servertool</title>
+		<title><?=$pageTitle?> | BF2 Servertool</title>
 		
 		<meta charset="<?=$lang['lang_charset']?>" />
-		<meta name="author" content="BattlefieldTools.com" />
+		<meta name="author" content="github.com/Jdar2" />
 		
 		<link rel="icon" type="image/png" href="<?=HOME_URL?>panel/img/favicon.png" />
 		

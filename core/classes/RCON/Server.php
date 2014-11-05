@@ -123,8 +123,7 @@ class Server
      *  <li>Game Types
      *   <ul>
      *    <li>gpm_sa</li>
-     *    <li>gpm_rush</li>
-     *    <li>There are also so unreleased/lef in BFP4F mm/game files.
+     *    <li>There are also so unreleased/leftovers in BFP4F mm/game files.
      *   </ul>
      *  </li>
      * </ul>

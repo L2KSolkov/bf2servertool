@@ -103,7 +103,7 @@ class GameMaps {
 			return $this->maps[strtolower($key)];
 		}
 		
-		return 'Unknown';
+		return 'Unknown Map!';
 	}
 	
 	/**
@@ -118,7 +118,7 @@ class GameMaps {
 			return $this->gamemodes[$key];
 		}
 		
-		return 'Unknown';
+		return 'Unknown Gamemode!';
 	}
 	
 	/**
